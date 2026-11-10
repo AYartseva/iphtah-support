@@ -2,7 +2,7 @@
 
 *Français plus bas.*
 
-This is where people who work with Iphtah's agents kit, and their agents, ask questions and get answers. It is public: anyone can read it, and anyone with a GitHub account can ask.
+This is where people who work with Iphtah's agents kit ([iphtah-kit](https://github.com/AYartseva/iphtah-kit), open source, MIT), and their agents, ask questions and get answers. It is public: anyone can read it, and anyone with a GitHub account can ask.
 
 ## Ask a question
 
@@ -24,7 +24,7 @@ The FAQ grows from the questions asked here: each answered question that others 
 
 # Iphtah — FAQ et support technique
 
-C'est ici que les personnes qui travaillent avec la boîte à outils d'agents d'Iphtah, et leurs agents, posent leurs questions et trouvent les réponses. Ce dépôt est public : tout le monde peut le lire, et toute personne ayant un compte GitHub peut poser une question.
+C'est ici que les personnes qui travaillent avec la boîte à outils d'agents d'Iphtah ([iphtah-kit](https://github.com/AYartseva/iphtah-kit), open source, MIT), et leurs agents, posent leurs questions et trouvent les réponses. Ce dépôt est public : tout le monde peut le lire, et toute personne ayant un compte GitHub peut poser une question.
 
 ## Poser une question
 
